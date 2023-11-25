@@ -1,0 +1,7 @@
+spotipy~=2.23.0
+certifi~=2023.11.17
+pytube~=15.0.0
+moviepy~=1.0.3
+termcolor~=2.3.0
+pick~=2.2.0
+google-api-python-client~=2.108.0
