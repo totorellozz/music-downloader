@@ -6,4 +6,6 @@ You need to create:
 
 Fill out the file 'config.py' with your data
 
+Downloads the requirements.txt with thew following code in the terminal 'pip install -r requirements.txt'
+
 Simply run with 'python spotube.py' in terminal
